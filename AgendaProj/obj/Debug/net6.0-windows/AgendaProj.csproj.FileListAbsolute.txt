@@ -1,0 +1,17 @@
+C:\Users\felnd\source\repos\ProjetosAula\AgendaProj\AgendaProj\bin\Debug\net6.0-windows\AgendaProj.exe
+C:\Users\felnd\source\repos\ProjetosAula\AgendaProj\AgendaProj\bin\Debug\net6.0-windows\AgendaProj.deps.json
+C:\Users\felnd\source\repos\ProjetosAula\AgendaProj\AgendaProj\bin\Debug\net6.0-windows\AgendaProj.runtimeconfig.json
+C:\Users\felnd\source\repos\ProjetosAula\AgendaProj\AgendaProj\bin\Debug\net6.0-windows\AgendaProj.dll
+C:\Users\felnd\source\repos\ProjetosAula\AgendaProj\AgendaProj\bin\Debug\net6.0-windows\AgendaProj.pdb
+C:\Users\felnd\source\repos\ProjetosAula\AgendaProj\AgendaProj\obj\Debug\net6.0-windows\AgendaProj.csproj.AssemblyReference.cache
+C:\Users\felnd\source\repos\ProjetosAula\AgendaProj\AgendaProj\obj\Debug\net6.0-windows\AgendaProj.frmAgenda.resources
+C:\Users\felnd\source\repos\ProjetosAula\AgendaProj\AgendaProj\obj\Debug\net6.0-windows\AgendaProj.csproj.GenerateResource.cache
+C:\Users\felnd\source\repos\ProjetosAula\AgendaProj\AgendaProj\obj\Debug\net6.0-windows\AgendaProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felnd\source\repos\ProjetosAula\AgendaProj\AgendaProj\obj\Debug\net6.0-windows\AgendaProj.AssemblyInfoInputs.cache
+C:\Users\felnd\source\repos\ProjetosAula\AgendaProj\AgendaProj\obj\Debug\net6.0-windows\AgendaProj.AssemblyInfo.cs
+C:\Users\felnd\source\repos\ProjetosAula\AgendaProj\AgendaProj\obj\Debug\net6.0-windows\AgendaProj.csproj.CoreCompileInputs.cache
+C:\Users\felnd\source\repos\ProjetosAula\AgendaProj\AgendaProj\obj\Debug\net6.0-windows\AgendaProj.dll
+C:\Users\felnd\source\repos\ProjetosAula\AgendaProj\AgendaProj\obj\Debug\net6.0-windows\refint\AgendaProj.dll
+C:\Users\felnd\source\repos\ProjetosAula\AgendaProj\AgendaProj\obj\Debug\net6.0-windows\AgendaProj.pdb
+C:\Users\felnd\source\repos\ProjetosAula\AgendaProj\AgendaProj\obj\Debug\net6.0-windows\AgendaProj.genruntimeconfig.cache
+C:\Users\felnd\source\repos\ProjetosAula\AgendaProj\AgendaProj\obj\Debug\net6.0-windows\ref\AgendaProj.dll
